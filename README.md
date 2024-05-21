@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile! 👋
-
-## About Me
+## Hey 👋
 
 I'm a passionate technologist with extensive experience in software development and leadership.
 
