@@ -13,6 +13,6 @@ I'm a passionate technologist with extensive experience in software development 
 
 - 🎤 Speaker at JAX London 2024
 - 🎤 Speaker at Agile Manchester 2023
-- 👫 Active in tech meetups and Agile workshops
+- 👫 Active in tech meetups
 - 🤝 Participated at maintenance mob for NixOS foundation
 - 🔧 Developer of TDD Predict plugin for JetBrains IDE
