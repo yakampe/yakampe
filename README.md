@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**yakampe/yakampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate technologist with extensive experience in software development and leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Java, JavaScript, TypeScript, PL/SQL 💻
+- **Frameworks:** SpringBoot, Angular 8+ 📚
+- **DevOps:** AWS, GCP Firebase, Jenkins, Git, GitHub, Terraform, AWS CDK 🚀
+- **Practices:** TDD, Pair/Mob Programming, XP, Other Agile Methodologies 🛠️
+
+## Community Involvement
+
+- 🎤 Speaker at JAX London 2024
+- 🎤 Speaker at Agile Manchester 2023
+- 👫 Active in tech meetups and Agile workshops
+- 🤝 Participated at maintenance mob for NixOS foundation
+- 🔧 Developer of TDD Predict plugin for JetBrains IDE
